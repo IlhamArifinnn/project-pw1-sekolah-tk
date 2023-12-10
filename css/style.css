@@ -366,7 +366,7 @@ h6,
   flex-direction: column;
   background: #ffffff;
   border: 12px solid var(--light);
-  border-radius: 250px;
+  border-radius: 150px;
   transition: 0.5s;
 }
 
